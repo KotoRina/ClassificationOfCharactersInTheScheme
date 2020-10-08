@@ -1,0 +1,16 @@
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.deps.json
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.runtimeconfig.json
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.runtimeconfig.dev.json
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.dll
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.pdb
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.Model.dll
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\bin\Debug\netcoreapp2.1\SegmentationML.Model.pdb
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.csprojAssemblyReference.cache
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.AssemblyInfo.cs
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.csproj.CopyComplete
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.dll
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.pdb
+C:\Selective_Search\Segmentation\SegmentationML.ConsoleApp\obj\Debug\netcoreapp2.1\SegmentationML.ConsoleApp.genruntimeconfig.cache
